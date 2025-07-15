@@ -28,7 +28,15 @@ These files should be placed in your working directory before running the script
 
 If you use this code or data pipeline, please cite:
 
-- [Johnson et al., MIMIC-III Critical Care Database, 2016](https://doi.org/10.1038/sdata.2016.35)
+- **Your Paper**: [Full reference to your paper here, e.g. Author et al., Year, Title, Journal, DOI if available].
+
+- **MIMIC-III Database**:  
+  Johnson AE, Pollard TJ, Shen L, et al. (2016). MIMIC-III, a freely accessible critical care database. *Scientific Data* 3, 160035. [https://doi.org/10.1038/sdata.2016.35](https://doi.org/10.1038/sdata.2016.35)
+
+## License
+
+This repository contains only code and is released under the MIT License.  
+Data remain under the original MIMIC-III license and cannot be redistributed.
 
 ## License
 
