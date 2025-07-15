@@ -9,8 +9,7 @@ This repository contains the R code for the analysis of outcomes using MIMIC-III
 ## Data
 
 The analysis uses data from the [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/).  
-Due to data usage restrictions, **we cannot share the datasets directly**.  
-To access MIMIC-III data:
+Due to data usage restrictions, **we cannot share the datasets directly**. To access MIMIC-III data:
 
 1. Complete the required data use agreement and credentialing at [PhysioNet](https://physionet.org).
 2. Download the database (provided as a compressed folder).
