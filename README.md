@@ -4,7 +4,7 @@ This repository contains the R code for the analysis of outcomes using MIMIC-III
 
 ## Contents
 
-- `XX.R`: main analysis script containing data processing, cleaning, and outcome modelling.
+- `code-ASBMI-Albano-DiMaria-Sciandra-Plaia.R`: main analysis script containing data processing, cleaning, and outcome modelling.
 
 ## Data
 
