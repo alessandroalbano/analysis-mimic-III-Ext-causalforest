@@ -9,7 +9,7 @@ library(grf)
 
 
 #-- START MERGING MIMIC III --------------------------------------------
-# In this phase two csv files from MIMIC are required:
+# In this phase two csv files from MIMIC III are required:
 # 1) NOTEEVENTS to retrieve discharge summaries
 # 2) DIAGNOSES_ICD to retrieve the final dignoses
 
