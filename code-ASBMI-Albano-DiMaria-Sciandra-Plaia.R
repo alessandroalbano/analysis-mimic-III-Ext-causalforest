@@ -966,7 +966,7 @@ rate.cate.man  <- rank_average_treatment_effect(eval.forest.man , tau.hat.eval.m
 plot(rate.cate.man , main = "TOC: By decreasing estimated CATE (man)")
 
 
-#12) hepatitis 
+#11) hepatitis 
 
 mod_hepatitis_hyp = causal_forest(
   Y = ordered_hyp,
@@ -997,7 +997,7 @@ rate.cate.hepatitis  <- rank_average_treatment_effect(eval.forest.hepatitis , ta
 plot(rate.cate.hepatitis , main = "TOC: By decreasing estimated CATE (hepatitis )")
 
 
-#13) baby 
+#12) baby 
 
 mod_baby_hyp = causal_forest(
   Y = ordered_hyp,
