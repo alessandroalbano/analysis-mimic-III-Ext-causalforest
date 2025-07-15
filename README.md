@@ -38,6 +38,6 @@ If you use this code or data pipeline, please cite:
 
 ## License
 
-This repository contains only code and is released under the MIT License.  
+This repository contains only R code.  
 Data remain under the original MIMIC-III license and cannot be redistributed.
 
