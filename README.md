@@ -1,4 +1,4 @@
-# analysis-mimicIII-causalforest
+# analysis-mimic-III-Ext-causalforest
 
 This repository contains the R code for the analysis of outcomes using MIMIC-III discharge summaries.
 
