@@ -205,7 +205,6 @@ sur_tolog %>%  filter(term %in% adrenal_terms)
 
 
 # -- START CAUSAL FOREST MODELS ------------------------------------------
-set.seed(1995)
 s = sample(1:nrow(DTM_byhand), 0.7*nrow(DTM_byhand))
 DTM_byhand_train = DTM_byhand[s,]
 DTM_byhand_test = DTM_byhand[-s,]
