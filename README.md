@@ -29,7 +29,7 @@ If you use this code or data pipeline, please cite:
 
 - Albano A, Di Maria C, Sciandra M, Plaia A.  
   *Causal forests for discovering diagnostic language in Electronic Health Records*.  
-  Applied Stochastic Models in Business and Industry. Accepted for publication, DOI forthcoming.
+  Applied Stochastic Models in Business and Industry. Accepted for publication, DOI: https://doi.org/10.1002/asmb.70038.
 
 - **MIMIC-III Database**:  
   Johnson AE, Pollard TJ, Shen L, et al. (2016). MIMIC-III, a freely accessible critical care database. *Scientific Data* 3, 160035. [https://doi.org/10.1038/sdata.2016.35](https://doi.org/10.1038/sdata.2016.35)
